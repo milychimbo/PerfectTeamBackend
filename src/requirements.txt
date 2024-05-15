@@ -1,1 +1,2 @@
 Flask
+PyMuPDF==1.18.18
